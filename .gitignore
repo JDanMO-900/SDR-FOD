@@ -1,0 +1,4 @@
+.env
+Credencials.json
+.venv/
+*.csv
